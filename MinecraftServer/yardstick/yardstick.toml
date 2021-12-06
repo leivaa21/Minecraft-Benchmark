@@ -14,4 +14,4 @@ id = 0
 nodes = 1
 joininterval = 15
 interval = 10
-duration = 60
+duration = 900
